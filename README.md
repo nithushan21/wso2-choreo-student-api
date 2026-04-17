@@ -24,9 +24,9 @@ This project is a simple REST API built to manage student data. It was developed
 
 student-api/
 │
-├── data/ # In-memory student data
-├── routes/ # API route definitions
-├── index.js # Main server file
+├── data/        # In-memory student data
+├── routes/      # API route definitions
+├── index.js     # Main server file
 ├── package.json
 └── README.md
 
